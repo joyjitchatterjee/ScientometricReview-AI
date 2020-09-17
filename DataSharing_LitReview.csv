@@ -1,0 +1,8 @@
+﻿Dataset ,Type,Year Released
+ENGIE La Haute Borne,SCADA data from an operational onshore wind farm,2013
+United States Wind Turbine Database,"Locations of onshore and offshore turbines in the US, with corresponding technical specifications",2018
+Platform for Operational Data: Levenmouth Demonstration Turbine,"Data from an operational offshore wind turbine, including SCADA, historical logs of alarms, substation data, and Met mast data",2017
+NREL Western Wind Dataset,"Data with historical weather information (wind speed, air temperature, pressure etc.) and power output from multiple operational wind turbines",2004
+NREL Eastern Wind Dataset,"Simulated data of wind speed and turbine power output, with short-term forecasts",2004
+Orsted Offshore Operational Data,"SCADA data from 2 operational wind farms, with on-site 10 minutes statistics from wave-buoy and ground based LiDAR",2018
+Platform for Operational Data: Floating Turbine Design Cases,"Measurements from an operational floating turbine, with operational cases for multiple wind speeds and wave heights",2019
